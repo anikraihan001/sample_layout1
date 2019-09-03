@@ -1,0 +1,33 @@
+.logo{
+	background-color: red;
+	min-height: 100px;
+
+}
+.navigation{
+	background-color: blue;
+	min-height: 80px;
+}
+.banner{
+	background-color: orange;
+	min-height: 300px;
+}
+
+.sidebar{
+	background-color: black;
+	min-height:700px;
+	width: 35%;
+	float: left;
+}
+.bodyarea{
+
+
+	background-color: green;
+	min-height:700px;
+	width: 65%;
+	float: right;
+}
+.footer{
+	background-color: purple;
+	min-height: 80px;
+	clear:both;
+}
